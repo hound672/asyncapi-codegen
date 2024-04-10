@@ -3,7 +3,7 @@ package templates
 import (
 	"testing"
 
-	asyncapi "github.com/lerenn/asyncapi-codegen/pkg/asyncapi/v3"
+	asyncapi "github.com/hound672/asyncapi-codegen/pkg/asyncapi/v3"
 	"github.com/stretchr/testify/suite"
 )
 

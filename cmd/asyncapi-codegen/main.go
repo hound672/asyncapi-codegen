@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/lerenn/asyncapi-codegen/pkg/codegen"
+	"github.com/hound672/asyncapi-codegen/pkg/codegen"
 )
 
 func run() int {

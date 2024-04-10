@@ -8,8 +8,8 @@ import (
 	"sync"
 
 	"dagger.io/dagger"
-	"github.com/lerenn/asyncapi-codegen/pkg/ci"
-	"github.com/lerenn/asyncapi-codegen/pkg/utils"
+	"github.com/hound672/asyncapi-codegen/pkg/ci"
+	"github.com/hound672/asyncapi-codegen/pkg/utils"
 	"github.com/spf13/cobra"
 )
 

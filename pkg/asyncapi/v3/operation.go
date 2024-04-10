@@ -3,7 +3,7 @@ package asyncapiv3
 import (
 	"fmt"
 
-	"github.com/lerenn/asyncapi-codegen/pkg/utils/template"
+	"github.com/hound672/asyncapi-codegen/pkg/utils/template"
 )
 
 // OperationAction represents an OperationAction.

@@ -1,6 +1,6 @@
 package asyncapiv3
 
-import "github.com/lerenn/asyncapi-codegen/pkg/utils/template"
+import "github.com/hound672/asyncapi-codegen/pkg/utils/template"
 
 // OAuthFlow is a representation of the corresponding asyncapi object filled
 // from an asyncapi specification that will be used to generate code.

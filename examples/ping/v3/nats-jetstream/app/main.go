@@ -5,10 +5,10 @@ package main
 import (
 	"context"
 
-	"github.com/lerenn/asyncapi-codegen/examples"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/brokers/natsjetstream"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/loggers"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/middlewares"
+	"github.com/hound672/asyncapi-codegen/examples"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/brokers/natsjetstream"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/loggers"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/middlewares"
 	"github.com/nats-io/nats.go/jetstream"
 )
 

@@ -8,9 +8,9 @@ import (
 	"reflect"
 
 	"github.com/ghodss/yaml"
-	asyncapiv2 "github.com/lerenn/asyncapi-codegen/pkg/asyncapi/v2"
-	asyncapiv3 "github.com/lerenn/asyncapi-codegen/pkg/asyncapi/v3"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions"
+	asyncapiv2 "github.com/hound672/asyncapi-codegen/pkg/asyncapi/v2"
+	asyncapiv3 "github.com/hound672/asyncapi-codegen/pkg/asyncapi/v3"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions"
 )
 
 var (

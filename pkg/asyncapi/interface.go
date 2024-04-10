@@ -3,8 +3,8 @@ package asyncapi
 import (
 	"fmt"
 
-	asyncapiv2 "github.com/lerenn/asyncapi-codegen/pkg/asyncapi/v2"
-	asyncapiv3 "github.com/lerenn/asyncapi-codegen/pkg/asyncapi/v3"
+	asyncapiv2 "github.com/hound672/asyncapi-codegen/pkg/asyncapi/v2"
+	asyncapiv3 "github.com/hound672/asyncapi-codegen/pkg/asyncapi/v3"
 )
 
 // Specification only contains common functions between each version.

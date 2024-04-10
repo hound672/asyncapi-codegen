@@ -7,8 +7,8 @@ import (
 	"context"
 	"sync"
 
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions"
-	"github.com/lerenn/asyncapi-codegen/pkg/utils"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions"
+	"github.com/hound672/asyncapi-codegen/pkg/utils"
 	"github.com/stretchr/testify/suite"
 )
 

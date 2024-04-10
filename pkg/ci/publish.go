@@ -4,12 +4,12 @@ import (
 	"context"
 
 	"dagger.io/dagger"
-	"github.com/lerenn/asyncapi-codegen/pkg/utils/git"
+	"github.com/hound672/asyncapi-codegen/pkg/utils/git"
 )
 
 const (
 	// DockerImageName is the name of the docker image.
-	DockerImageName = "lerenn/asyncapi-codegen"
+	DockerImageName = "hound672/asyncapi-codegen"
 )
 
 var (

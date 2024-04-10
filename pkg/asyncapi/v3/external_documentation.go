@@ -1,6 +1,6 @@
 package asyncapiv3
 
-import "github.com/lerenn/asyncapi-codegen/pkg/utils/template"
+import "github.com/hound672/asyncapi-codegen/pkg/utils/template"
 
 const (
 	// ExternalDocsNameSuffix is the suffix that is added to the name of external docs.

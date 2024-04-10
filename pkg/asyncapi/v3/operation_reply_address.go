@@ -3,7 +3,7 @@ package asyncapiv3
 import (
 	"strings"
 
-	"github.com/lerenn/asyncapi-codegen/pkg/utils/template"
+	"github.com/hound672/asyncapi-codegen/pkg/utils/template"
 )
 
 // OperationReplyAddress is a representation of the corresponding asyncapi object

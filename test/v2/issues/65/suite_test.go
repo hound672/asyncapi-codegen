@@ -4,8 +4,8 @@ import (
 	"regexp"
 	"testing"
 
-	asyncapi "github.com/lerenn/asyncapi-codegen/pkg/asyncapi/v2"
-	generatorv2 "github.com/lerenn/asyncapi-codegen/pkg/codegen/generators/v2"
+	asyncapi "github.com/hound672/asyncapi-codegen/pkg/asyncapi/v2"
+	generatorv2 "github.com/hound672/asyncapi-codegen/pkg/codegen/generators/v2"
 	"github.com/stretchr/testify/suite"
 )
 

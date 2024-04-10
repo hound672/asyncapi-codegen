@@ -6,10 +6,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/lerenn/asyncapi-codegen/examples"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/brokers/nats"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/loggers"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/middlewares"
+	"github.com/hound672/asyncapi-codegen/examples"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/brokers/nats"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/loggers"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/middlewares"
 )
 
 var _ AppSubscriber = (*ServerSubscriber)(nil)

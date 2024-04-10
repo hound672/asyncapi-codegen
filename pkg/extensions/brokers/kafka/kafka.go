@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions"
-	"github.com/lerenn/asyncapi-codegen/pkg/extensions/brokers"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions"
+	"github.com/hound672/asyncapi-codegen/pkg/extensions/brokers"
 	"github.com/segmentio/kafka-go"
 )
 

@@ -5,10 +5,10 @@ import (
 	"os"
 	"runtime/debug"
 
-	"github.com/lerenn/asyncapi-codegen/pkg/asyncapi"
-	generatorv2 "github.com/lerenn/asyncapi-codegen/pkg/codegen/generators/v2"
-	generatorv3 "github.com/lerenn/asyncapi-codegen/pkg/codegen/generators/v3"
-	"github.com/lerenn/asyncapi-codegen/pkg/codegen/options"
+	"github.com/hound672/asyncapi-codegen/pkg/asyncapi"
+	generatorv2 "github.com/hound672/asyncapi-codegen/pkg/codegen/generators/v2"
+	generatorv3 "github.com/hound672/asyncapi-codegen/pkg/codegen/generators/v3"
+	"github.com/hound672/asyncapi-codegen/pkg/codegen/options"
 	"golang.org/x/tools/imports"
 )
 
